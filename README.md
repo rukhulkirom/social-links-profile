@@ -22,8 +22,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Github](https://github.com/rukhulkirom/blog-preview-card)
-- Live Site URL: [Netlify](https://blog-preview-card-rukhul.netlify.app/)
+- Solution URL: [Github](https://github.com/rukhulkirom/social-links-profile)
+- Live Site URL: [Netlify](https://social-links-profile-rukhul.netlify.app/)
 
 ## My process
 
